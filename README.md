@@ -1,2 +1,3 @@
-# lgwt_poker
-Learn Go with tests
+# Poker Application
+
+Learn Go with tests - sample application
